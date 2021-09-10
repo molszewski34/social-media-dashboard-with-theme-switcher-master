@@ -1,6 +1,6 @@
 # social-media-dashboard-with-theme-switcher-master
 
-![image](https://github.com/molszewski34/FrontEnd-projects/blob/main/social-media-dashboard-with-theme-switcher-master.png)
+![image](https://github.com/molszewski34/social-media-dashboard-with-theme-switcher-master/blob/main/social-media-dashboard-with-theme-switcher-master.png)
 
 social-media-dashboard-with-theme-switcher-master is a simple site build with html, css and javascript. Site offers mobile and desktop viewport to navigate it in optimal way. This project is based on FrontEnd Mentor challenge with link [here](https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H/hub/social-media-dashboard-with-theme-switcher-QcwnnWtLh)
 
